@@ -25,7 +25,7 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="header.panel">
-            <block class="ElQuchiri\WebsiteSwitcher\Block\Language" name="websites_switcher" template="ElQuchiri_WebsiteSwitcher::languages-switch.phtml" />
+            <block class="ElQuchiri\WebsiteSwitcher\Block\Website" name="websites_switcher" template="ElQuchiri_WebsiteSwitcher::website-switch.phtml" />
         </referenceContainer>
     </body>
 </page>
