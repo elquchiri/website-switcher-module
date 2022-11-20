@@ -2,7 +2,7 @@
     "name": "elquchiri/website-switcher-module",
     "description": "Integrate Easy & Efficient Website Switcher in your Magento Store",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
 	"license": "MIT",
     "require": {
         "php": ">=7.3",
